@@ -1,0 +1,25 @@
+
+ .btn {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.btn:hover{
+    background-color: green;
+}
+
+.qoutes{
+    text-align: center;
+    margin: 50px;
+}
+.qoutes h1{ 
+    font-size: 80px;
+    font-family: Impact;
+   
+
+}
+.qoutes p {
+    font-size: 35px;
+    margin: 35px;
+}
